@@ -21,12 +21,19 @@ AI Agent Interface — это платформа, позволяющая пол�
 - **🖥 Intuitive Interface** — удобная навигация и взаимодействие с AI-ассистентами.  
 
 ---
-Screenshots
-Login Page
+
+## 📸 Screenshots
+
+### 🔑 Login Page
 <img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/7227f6de-0210-4398-aa3a-4639d05e4077" />
-Registration Page
+
+### 🔑 Registration Page
 <img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/c88fdcb1-19d0-4e8c-bbc0-368382eeb2bc" />
-Dashboard - Agent Selection
+
+### 🔑 Dashboard - Agent Selection
 <img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/ef48039f-4e57-41b8-b4fd-aea47663c64e" />
-Chat Interface
+
+### 🔑 Dashboard - Chat Interface
 <img width="1472" height="704" alt="image" src="https://github.com/user-attachments/assets/e4a6f21d-355d-496a-bab8-cadefcf22b3c" />
+
+---

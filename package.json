@@ -1,0 +1,27 @@
+{
+  "name": "dify-ai-agent-ui",
+  "version": "1.0.0",
+  "description": "A web interface for Dify AI agents.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "dify",
+    "ai",
+    "chatbot",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.16.0",
+    "multer": "^2.0.1"
+  }
+}

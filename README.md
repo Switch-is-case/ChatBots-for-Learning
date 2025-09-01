@@ -1,19 +1,26 @@
-AI Agent Interface
-This project is an AI Agent Interface that allows users to interact with various AI assistants for different purposes, such as language learning, test preparation, and grammar correction.
-Features
-User Authentication: Secure login and registration system for users.
-Multiple AI Agents: Access to a variety of specialized AI assistants.
-IELTS Writing Assistant
-SAT Math Coach
-NUET QuizBot
-Grammar Corrector & Explainer
-Speaking Partner for IELTS
-Vocabulary Trainer
-Essay Topic Generator & Outliner
-Smart Vocabulary Trainer (IELTS & SAT)
-"Soon" - Placeholder for upcoming agents.
-Chat History: (Currently not implemented as per screenshots, but a likely future feature)
-Intuitive Interface: Easy navigation and interaction with AI agents.
+# 🤖 AI Agent Interface
+
+AI Agent Interface — это платформа, позволяющая пользователям взаимодействовать с различными специализированными AI-ассистентами для разных целей: от изучения языка до подготовки к экзаменам.
+
+---
+
+## ✨ Features
+
+- **🔐 User Authentication** — безопасная система регистрации и входа в аккаунт.  
+- **🧑‍🏫 Multiple AI Agents** — доступ к нескольким специализированным AI-ассистентам:
+  - IELTS Writing Assistant ✍️  
+  - SAT Math Coach ➕➖✖️➗  
+  - NUET QuizBot 📚  
+  - Grammar Corrector & Explainer 📝  
+  - Speaking Partner for IELTS 🎤  
+  - Vocabulary Trainer 📖  
+  - Essay Topic Generator & Outliner 📑  
+  - Smart Vocabulary Trainer (IELTS & SAT) 📘  
+  - `"Soon"` — заготовка для будущих агентов 🚀  
+- **🗂 Chat History** *(в разработке)* — возможность хранить и просматривать историю чатов.  
+- **🖥 Intuitive Interface** — удобная навигация и взаимодействие с AI-ассистентами.  
+
+---
 Screenshots
 Login Page
 <img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/7227f6de-0210-4398-aa3a-4639d05e4077" />
